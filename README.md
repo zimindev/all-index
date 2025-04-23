@@ -3,7 +3,6 @@
 
 Welcome to the main index of **ZiminDev** repositories!  
 This repo serves as a hub, linking to categorized index repositories by project type.
-
 ____________________________________________________________________________________________________________________
 
 ## 🎨 Portfolio
