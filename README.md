@@ -85,6 +85,12 @@ This repo serves as a hub, linking to categorized index repositories by project 
 ## 🚁 Drones & UAV
 
 🔗 [dron-index](https://github.com/zimindev/dron-index) – Projects, tools, and notes about **quadcopters** and **UAV tech**
+ + 🛠️ Drone firmware & flight controllers
+ + 📡 Telemetry systems & real-time data tracking
+ + 🧭 Navigation algorithms & GPS modules
+ + 🖥️ Ground control software & mobile apps
+ + 🧪 DIY builds, hardware mods & tuning guides
+ + 📚 Educational resources & community knowledge
 
 ## 💰Forex & Trading Tool
 
