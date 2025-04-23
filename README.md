@@ -30,9 +30,9 @@ This repo serves as a hub, linking to categorized index repositories by project 
   
 ---
 
-## 📊 Data
+## 🎨 Design
 
-- 🔗 [dbs-index](https://github.com/zimindev/dbs-index) – Databases and data models
+- 🔗 [design-index](https://github.com/zimindev/design-index) – Projects and assets related to **Figma** and **Design** work
 
 ---
 
@@ -40,6 +40,12 @@ This repo serves as a hub, linking to categorized index repositories by project 
 
 - 🔗 [blog-index](https://github.com/zimindev/blog-index) – Web development **blog**
 - 🔗 [gde-index](https://github.com/zimindev/gde-index) – Guides, Docs & **Education**
+
+---
+
+## 📊 Data
+
+- 🔗 [dbs-index](https://github.com/zimindev/dbs-index) – Databases and data models
 
 ---
 
