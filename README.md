@@ -3,7 +3,6 @@
 
 Welcome to the main index of **ZiminDev** repositories!  
 This repo serves as a hub, linking to categorized index repositories by project type.
-____________________________________________________________________________________________________________________
 
 ## 🎨 Portfolio
 
@@ -69,7 +68,14 @@ ________________________________________________________________________________
 
 - 🔗 [doc-index](https://github.com/zimindev/doc-index) – Documentation & manuals
 - 🔗 [bks-index](https://github.com/zimindev/bks-index) – Bookmarks and useful resources  
-- 🔗 [nts-index](https://github.com/zimindev/nts-index) – Notes and personal knowledge  
+- 🔗 [nts-index](https://github.com/zimindev/nts-index) – Notes and personal knowledge
+
+---
+
+## 🚁 Drones & UAV
+
+- 🔗 [dron-index](https://github.com/zimindev/dron-index) – Projects, tools, and notes about **quadcopters** and **UAV tech**
+
 ---
 
 ## 🎨 Personal
