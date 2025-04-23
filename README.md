@@ -96,7 +96,7 @@ This repo serves as a hub, linking to categorized index repositories by project 
 
 ## 💰Forex & Trading Tool
 
-🔗 [frx-index](https://github.com/zimindev/frx-index) – Trading, market analysis tools & financial libraries
+🔗 [forex-index](https://github.com/zimindev/forex-index) – Trading, market analysis tools & financial libraries
 
  🤖 Algorithmic trading systems
 
