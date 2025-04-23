@@ -90,5 +90,4 @@ Giving a ⭐ on any repo is a great way to say *thanks* 💙
 
 ---
 
-© [Sasha Zimin](https://github.com/zimindev)
-**
+© [Sasha Zimin | Full Stack WordPress Developer](https://github.com/zimindev)
