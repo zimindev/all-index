@@ -9,7 +9,7 @@ This repo serves as a hub, linking to categorized index repositories by project 
 
 ---
 
-## 🔨 All Projects
+## 🔨 Projects
 
 - 🔗 [prj-index](https://github.com/zimindev/prj-index) – Open-source **project catalog** and other projects in work
 
