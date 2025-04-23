@@ -4,13 +4,13 @@
 Welcome to the main index of **ZiminDev** repositories!  
 This repo serves as a hub, linking to categorized index repositories by project type.
 
-## 💻 Portfolio
+## 🗂️ Portfolio
 
 - 🔗 [portfolio-index](https://github.com/zimindev/portfolio-index) – **Frontend** and **Backend** work  
 
 ---
 
-## All Projects
+## 🔨 All Projects
 
 - 🔗 [prj-index](https://github.com/zimindev/prj-index) – Open-source **project catalog** and other projects in work
 
@@ -33,6 +33,8 @@ This repo serves as a hub, linking to categorized index repositories by project 
 ## 📊 Data
 
 - 🔗 [dbs-index](https://github.com/zimindev/dbs-index) – Databases and data models
+
+---
 
 ## ✍️ Blogs & Content
 
