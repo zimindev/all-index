@@ -5,7 +5,7 @@ This repo serves as a hub, linking to categorized index repositories by project 
 
 ## 💼 Portfolio
 
-- 🔗 [portfolio-index](https://github.com/zimindev/portfolio-index) – **Frontend** and **Backend** work
+- 🔗 [portfolio-index](https://github.com/zimindev/portfolio-index) – **Frontend**, **Backend**, **WordPress** and **Woocommerce** work
 
 ---
 
