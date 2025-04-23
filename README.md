@@ -4,9 +4,15 @@
 Welcome to the main index of **ZiminDev** repositories!  
 This repo serves as a hub, linking to categorized index repositories by project type.
 
-## 🎨 Portfolio
+## 💻 Portfolio
 
 - 🔗 [portfolio-index](https://github.com/zimindev/portfolio-index) – **Frontend** and **Backend** work  
+
+---
+
+## All Projects
+
+- 🔗 [prj-index](https://github.com/zimindev/prj-index) – Open-source **project catalog** and other projects in work
 
 ---
 
@@ -17,10 +23,9 @@ This repo serves as a hub, linking to categorized index repositories by project 
 
 ---
 
-## 💻 Development
+## 👨‍💻Web Development
 
 - 🔗 [webdev-index](https://github.com/zimindev/webdev-index) – General **web development** resources
-- 🔗 [prj-index](https://github.com/zimindev/prj-index) – Open-source **project catalog** and other project in work
 - 🔗 [frx-index](https://github.com/zimindev/frx-index) – Frameworks, libraries, stacks
   
 ---
