@@ -1,4 +1,4 @@
-# 📂 All-Index Repository  | zimin.dev
+# 📂 All-Index Repository  | Sasha Zimin | zimin.dev
 #  
 
 Welcome to the main index of **ZiminDev** repositories!  
