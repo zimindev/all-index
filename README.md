@@ -18,6 +18,7 @@ This repo serves as a hub, linking to categorized index repositories by project 
 ## 🧩 CMS Development
 
 🔗 [wp-index](https://github.com/zimindev/wp-index) – **WordPress** repositories
+
 🔗 [woo-index](https://github.com/zimindev/woo-index) – **WooCommerce** focused projects
 
 ---
@@ -25,6 +26,7 @@ This repo serves as a hub, linking to categorized index repositories by project 
 ## 👨‍💻Web Development
 
 🔗 [webdev-index](https://github.com/zimindev/webdev-index) – **Web development** resources
+
 🔗 [frx-index](https://github.com/zimindev/frx-index) – Frameworks, libraries, stacks
   
 ---
@@ -44,6 +46,7 @@ This repo serves as a hub, linking to categorized index repositories by project 
 ## ✍️ Blogs & Content
 
 🔗 [blog-index](https://github.com/zimindev/blog-index) – Web development **blog**
+
 🔗 [gde-index](https://github.com/zimindev/gde-index) – Guides, Docs & **Education**
 
 ---
@@ -57,11 +60,17 @@ This repo serves as a hub, linking to categorized index repositories by project 
 ## 🛠️ System Tools & Utilities
 
 🔗 [toolkit-index](https://github.com/zimindev/toolkit-index) – Tools & utilities
+
 🔗 [sys-index](https://github.com/zimindev/sys-index) – System administration scripts
+
 🔗 [cli-index](https://github.com/zimindev/cli-index) – Command-line tools & scripts
+
 🔗 [cfg-index](https://github.com/zimindev/cfg-index) – Configuration files
+
 🔗 [net-index](https://github.com/zimindev/net-index) – Networking tools & configs
+
 🔗 [utl-index](https://github.com/zimindev/utl-index) – Useful utilities/scripts
+
 🔗 [cht-index](https://github.com/zimindev/cht-index) – Cheatsheets and quick refs
 
 ---
@@ -69,8 +78,11 @@ This repo serves as a hub, linking to categorized index repositories by project 
 ## 🔐 Security & OS
 
 🔗 [arch-index](https://github.com/zimindev/arch-index) – **Arch Linux** configs/tools
+
 🔗 [kali-index](https://github.com/zimindev/kali-index) – **Kali Linux** / Pentesting
+
 🔗 [lnx-index](https://github.com/zimindev/lnx-index) – General **Linux** resources
+
 🔗 [sec-index](https://github.com/zimindev/sec-index) – **Security** tools & research
 
 ---
@@ -84,8 +96,11 @@ This repo serves as a hub, linking to categorized index repositories by project 
 ## 📚 Documentation & Resources
 
 🔗 [doc-index](https://github.com/zimindev/doc-index) – Documentation & manuals
+
 🔗 [nts-index](https://github.com/zimindev/nts-index) – Notes and personal knowledge
+
 🔗 [bks-index](https://github.com/zimindev/bks-index) – Bookmarks and useful resources
+
 ---
 
 ## 🚁 Drones & UAV
@@ -113,6 +128,7 @@ This repo serves as a hub, linking to categorized index repositories by project 
 ## 🔐 Personal
 
 🔗 [zimin_dev-index](https://github.com/zimindev/zimin_dev-index) *(private)* – Personal dev environment and assets
+
 🔗 [logs-index](https://github.com/zimindev/logs-index) – Logs, changelogs & updates
 
 ## 🌟 **Stay Connected** 
