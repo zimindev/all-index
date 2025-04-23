@@ -5,7 +5,7 @@ This repo serves as a hub, linking to categorized index repositories by project 
 
 ## 💼 Portfolio
 
-- 🔗 [portfolio-index](https://github.com/zimindev/portfolio-index) – **Frontend** and **Backend** work  
+- 🔗 [portfolio-index](https://github.com/zimindev/portfolio-index) – **Frontend** and **Backend** work
 
 ---
 
@@ -32,6 +32,12 @@ This repo serves as a hub, linking to categorized index repositories by project 
 ## 🎨 Design
 
 - 🔗 [design-index](https://github.com/zimindev/design-index) – Assets related to **Figma** and **Design** work
+
+---
+
+## 🔎 SEO
+
+- 🔗 [seo-index](https://github.com/zimindev/seo-index) – **SEO** strategies and tools
 
 ---
 
@@ -62,14 +68,14 @@ This repo serves as a hub, linking to categorized index repositories by project 
 
 ## 🔐 Security & OS
 
-- 🔗 [arch-index](https://github.com/zimindev/arch-index) – **Arch Linux** configs/tools  
-- 🔗 [kali-index](https://github.com/zimindev/kali-index) – **Kali Linux** / Pentesting  
+- 🔗 [arch-index](https://github.com/zimindev/arch-index) – **Arch Linux** configs/tools
+- 🔗 [kali-index](https://github.com/zimindev/kali-index) – **Kali Linux** / Pentesting
 - 🔗 [lnx-index](https://github.com/zimindev/lnx-index) – General **Linux** resources
 - 🔗 [sec-index](https://github.com/zimindev/sec-index) – **Security** tools & research
 
 ---
 
-## 📊 SEO
+## 🔎 SEO
 
 - 🔗 [seo-index](https://github.com/zimindev/seo-index) – **SEO** strategies and tools
 
@@ -79,9 +85,7 @@ This repo serves as a hub, linking to categorized index repositories by project 
 
 - 🔗 [doc-index](https://github.com/zimindev/doc-index) – Documentation & manuals
 - 🔗 [nts-index](https://github.com/zimindev/nts-index) – Notes and personal knowledge
-- 🔗 [bks-index](https://github.com/zimindev/bks-index) – Bookmarks and useful resources  
-
-
+- 🔗 [bks-index](https://github.com/zimindev/bks-index) – Bookmarks and useful resources
 ---
 
 ## 🚁 Drones & UAV
@@ -109,7 +113,7 @@ This repo serves as a hub, linking to categorized index repositories by project 
 ## 🔐 Personal
 
 - 🔗 [zimin_dev-index](https://github.com/zimindev/zimin_dev-index) *(private)* – Personal dev environment and assets
-- 🔗 [logs-index](https://github.com/zimindev/logs-index) – Logs, changelogs & updates 
+- 🔗 [logs-index](https://github.com/zimindev/logs-index) – Logs, changelogs & updates
 
 ## 🌟 **Stay Connected** 
 
