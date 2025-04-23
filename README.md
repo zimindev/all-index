@@ -53,7 +53,7 @@ This repo serves as a hub, linking to categorized index repositories by project 
 
 - 🔗 [arch-index](https://github.com/zimindev/arch-index) – **Arch Linux** configs/tools  
 - 🔗 [kali-index](https://github.com/zimindev/kali-index) – **Kali Linux** / Pentesting  
-- 🔗 [lnx-index](https://github.com/zimindev/lnx-index) – General **Linux** resources  
+- 🔗 [lnx-index](https://github.com/zimindev/lnx-index) – General **Linux** resources
 - 🔗 [sec-index](https://github.com/zimindev/sec-index) – **Security** tools & research
 
 ---
@@ -90,5 +90,5 @@ Giving a ⭐ on any repo is a great way to say *thanks* 💙
 
 ---
 
-© [ZiminDev](https://github.com/zimindev)
+© [Sasha Zimin](https://github.com/zimindev)
 **
