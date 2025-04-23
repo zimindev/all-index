@@ -12,7 +12,7 @@ This repo serves as a hub, linking to categorized index repositories by project 
 
 ## 🧩 CMS Development
 
-- 🔗 [wp-index](https://github.com/zimindev/wp-index) – **WordPress** repositories  
+- 🔗 [wp-index](https://github.com/zimindev/wp-index) – **WordPress** repositories
 - 🔗 [woo-index](https://github.com/zimindev/woo-index) – **WooCommerce** focused projects
 
 ---
@@ -21,7 +21,7 @@ This repo serves as a hub, linking to categorized index repositories by project 
 
 - 🔗 [webdev-index](https://github.com/zimindev/webdev-index) – General **web development** resources
 - 🔗 [prj-index](https://github.com/zimindev/prj-index) – Open-source **project catalog** and other project in work
-- 🔗 [frx-index](https://github.com/zimindev/frx-index) – Frameworks, libraries, stacks   
+- 🔗 [frx-index](https://github.com/zimindev/frx-index) – Frameworks, libraries, stacks
   
 ---
 
@@ -32,20 +32,19 @@ This repo serves as a hub, linking to categorized index repositories by project 
 ## ✍️ Blogs & Content
 
 - 🔗 [blog-index](https://github.com/zimindev/blog-index) – Web development **blog**
-- 🔗 [gde-index](https://github.com/zimindev/gde-index) – Guides, Docs & **Education**  
+- 🔗 [gde-index](https://github.com/zimindev/gde-index) – Guides, Docs & **Education**
 
 ---
 
 ## 🛠️ System Tools & Utilities
 
-- 🔗 [toolkit-index](https://github.com/zimindev/toolkit-index) – Tools & utilities  
-- 🔗 [sys-index](https://github.com/zimindev/sys-index) – System administration scripts  
-- 🔗 [cli-index](https://github.com/zimindev/cli-index) – Command-line tools & scripts  
-- 🔗 [bin-index](http://github.com/zimindev/bin-index) – Binary & compiled tools  
-- 🔗 [cfg-index](https://github.com/zimindev/cfg-index) – Configuration files  
-- 🔗 [net-index](https://github.com/zimindev/net-index) – Networking tools & configs  
-- 🔗 [cht-index](https://github.com/zimindev/cht-index) – Cheatsheets and quick refs  
+- 🔗 [toolkit-index](https://github.com/zimindev/toolkit-index) – Tools & utilities
+- 🔗 [sys-index](https://github.com/zimindev/sys-index) – System administration scripts
+- 🔗 [cli-index](https://github.com/zimindev/cli-index) – Command-line tools & scripts
+- 🔗 [cfg-index](https://github.com/zimindev/cfg-index) – Configuration files
+- 🔗 [net-index](https://github.com/zimindev/net-index) – Networking tools & configs
 - 🔗 [utl-index](https://github.com/zimindev/utl-index) – Useful utilities/scripts
+- 🔗 [cht-index](https://github.com/zimindev/cht-index) – Cheatsheets and quick refs
 
 ---
 
@@ -67,8 +66,9 @@ This repo serves as a hub, linking to categorized index repositories by project 
 ## 📚 Documentation & Resources
 
 - 🔗 [doc-index](https://github.com/zimindev/doc-index) – Documentation & manuals
-- 🔗 [bks-index](https://github.com/zimindev/bks-index) – Bookmarks and useful resources  
 - 🔗 [nts-index](https://github.com/zimindev/nts-index) – Notes and personal knowledge
+- 🔗 [bks-index](https://github.com/zimindev/bks-index) – Bookmarks and useful resources  
+
 
 ---
 
