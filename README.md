@@ -136,6 +136,4 @@ This repo serves as a hub, linking to categorized index repositories by project 
 ⭐ **Star** repositories you find useful!  
 Giving a ⭐ on any repo is a great way to say *thanks* 💙
 
----
-
 © [Sasha Zimin | Full Stack WordPress Developer](https://github.com/zimindev)
