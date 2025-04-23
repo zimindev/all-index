@@ -1,10 +1,11 @@
-**# 📂 All-Index Repository  
+# 📂 All-Index Repository  
 ## Sasha Zimin | [zimin.dev](https://zimin.dev)
 
 Welcome to the main index of **ZiminDev** repositories!  
 This repo serves as a hub, linking to categorized index repositories by project type.
 
-**************************************************************************************************************************
+*** ***** ******************* ************************* ********************* *************************************************
+
 ## 🎨 Portfolio
 
 - 🔗 [portfolio-index](https://github.com/zimindev/portfolio-index) – **Frontend** and **Backend** work  
