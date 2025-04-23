@@ -98,15 +98,15 @@ This repo serves as a hub, linking to categorized index repositories by project 
 
 🔗 [forex-index](https://github.com/zimindev/forex-index) – Trading, market analysis tools & financial libraries
 
- 🤖 Algorithmic trading systems
+ + 🤖 Algorithmic trading systems
 
- 📊 Technical indicators & backtesting scripts
+ + 📊 Technical indicators & backtesting scripts
 
- 💹 Broker API integrations (MetaTrader, OANDA, Binance)
+ + 💹 Broker API integrations (MetaTrader, OANDA, Binance)
 
- 📈 Risk management calculators
+ + 📈 Risk management calculators
 
- 📚 Educational resources & trading journals
+ + 📚 Educational resources & trading journals
 
 ---
 
