@@ -3,7 +3,7 @@
 Welcome to the main index of **ZiminDev** repositories!  
 This repo serves as a hub, linking to categorized index repositories by project type.
 
-## 🗂️ Portfolio
+## 💼 Portfolio
 
 - 🔗 [portfolio-index](https://github.com/zimindev/portfolio-index) – **Frontend** and **Backend** work  
 
@@ -90,7 +90,7 @@ This repo serves as a hub, linking to categorized index repositories by project 
 
 ---
 
-## 🎨 Personal
+## 🔐 Personal
 
 - 🔗 [zimin_dev-index](https://github.com/zimindev/zimin_dev-index) *(private)* – Personal dev environment and assets
 - 🔗 [logs-index](https://github.com/zimindev/logs-index) – Logs, changelogs & updates 
