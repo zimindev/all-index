@@ -1,12 +1,12 @@
-# 📂 All-Index Repository  
-# 📚 Zimin.Dev
+# 📂 All-Index Repository  | zimin.dev
+#  
 
 Welcome to the main index of **ZiminDev** repositories!  
 This repo serves as a hub, linking to categorized index repositories by project type.
 
 ---
 
-## 🎨 Portfolio Index
+## 📚 Portfolio Index
 
 🔗 [portfolio-index](https://github.com/zimindev/portfolio-index)  
 📂 A collection of my **Frontend** and **Backend** development work.
