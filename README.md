@@ -24,14 +24,14 @@ This repo serves as a hub, linking to categorized index repositories by project 
 
 ## 👨‍💻Web Development
 
-- 🔗 [webdev-index](https://github.com/zimindev/webdev-index) – General **web development** resources
+- 🔗 [webdev-index](https://github.com/zimindev/webdev-index) – **Web development** resources
 - 🔗 [frx-index](https://github.com/zimindev/frx-index) – Frameworks, libraries, stacks
   
 ---
 
 ## 🎨 Design
 
-- 🔗 [design-index](https://github.com/zimindev/design-index) – Projects and assets related to **Figma** and **Design** work
+- 🔗 [design-index](https://github.com/zimindev/design-index) – Assets related to **Figma** and **Design** work
 
 ---
 
@@ -87,6 +87,22 @@ This repo serves as a hub, linking to categorized index repositories by project 
 ## 🚁 Drones & UAV
 
 - 🔗 [dron-index](https://github.com/zimindev/dron-index) – Projects, tools, and notes about **quadcopters** and **UAV tech**
+
+---
+
+## 💰Forex & Trading Tool
+
+🔗 frx-index – Trading, market analysis tools & financial libraries
+
+ 🤖 Algorithmic trading systems
+
+ 📊 Technical indicators & backtesting scripts
+
+ 💹 Broker API integrations (MetaTrader, OANDA, Binance)
+
+ 📈 Risk management calculators
+
+ 📚 Educational resources & trading journals
 
 ---
 
