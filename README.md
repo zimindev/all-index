@@ -147,7 +147,7 @@ This repo serves as a hub, linking to categorized index repositories by project 
 
 ## 🚁 Drones & UAV
 
-🔗 [dron-index](https://github.com/zimindev/dron-index) – Projects, tools, and notes about **quadcopters** and **UAV tech**
+🔗 [drone-index](https://github.com/zimindev/drone-index) – Projects, tools, and notes about **quadcopters** and **UAV tech**
  + 🛠️ Drone firmware & flight controllers
  + 📡 Telemetry systems & real-time data tracking
  + 🧭 Navigation algorithms & GPS modules
