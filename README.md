@@ -129,12 +129,12 @@ This repo serves as a hub, linking to categorized index repositories by project 
 
 ## 🤖 Bots & Automation
 🔗 [bot-index](https://github.com/zimindev/bot-index) – Scripts, bots & automation tools
-💬 Telegram, Discord & chat-based bots
-📦 Web scraping, parsing & data collectors
-⚙️ Task automation, schedulers & CLI tools
-🧠 AI-driven interactions & logic flows
-🔌 API integrations & webhook handlers
-📚 Docs, bot logic & deployment notes
++ 💬 Telegram, Discord & chat-based bots
++ 📦 Web scraping, parsing & data collectors
++ ⚙️ Task automation, schedulers & CLI tools
++ 🧠 AI-driven interactions & logic flows
++ 🔌 API integrations & webhook handlers
++ 📚 Docs, bot logic & deployment notes
 
 ## 📚 Documentation & Resources
 
