@@ -118,6 +118,28 @@ This repo serves as a hub, linking to categorized index repositories by project 
 + 🔧 Kernel tweaks, performance tuning & optimization
 + 📚 Linux tutorials & troubleshooting tips
 
+## 🐳 Docker  
+🔗 [dkr-index](https://github.com/zimindev/dkr-index) – **Docker** setups, images & containerized workflows
+
++ 📦 Dockerfiles for apps, tools & environments  
++ 🔁 Docker Compose stacks & service orchestration  
++ 🛠️ Custom containers for dev & production  
++ 🌐 Web servers, databases & full-stack setups  
++ 🔒 Secure configurations & network setups  
++ 📚 Deployment guides, tips & best practices  
+
+
+## ☸️ Kubernetes  
+🔗 [k8s-index](https://github.com/zimindev/k8s-index) – **Kubernetes** configs, clusters & deployment flows
+
++ 🌐 Cluster setup, Helm charts & manifests  
++ 📦 App deployment, scaling & autoscaling  
++ 🔁 CI/CD pipelines & GitOps workflows  
++ 🛡️ Secrets, RBAC, namespaces & security  
++ 🔧 Monitoring, logging & resource limits  
++ 📚 Tutorials, kubectl cheatsheets & docs  
+
+
 ## 🔐 Security
 🔗 [sec-index](https://github.com/zimindev/sec-index) – **Security** tools & research
 + 🛡️ Web app security, XSS & SQLi prevention
