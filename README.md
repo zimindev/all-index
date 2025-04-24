@@ -16,12 +16,12 @@ This repo serves as a hub, linking to categorized index repositories by project 
 ## 🔨 Projects
 
 🔗 [prj-index](https://github.com/zimindev/prj-index) – Open-source **project catalog** and other projects in work
-💻 Frontend & backend applications
-🌐 WordPress sites & WooCommerce stores
-🧩 Custom plugins, themes & integrations
-🐧 Linux distros, scripts & system tools
-📦 Experimental builds & side projects
-📚 Project notes, roadmaps & changelogs
++ 💻 Frontend & backend applications
++ 🌐 WordPress sites & WooCommerce stores
++ 🧩 Custom plugins, themes & integrations
++ 🐧 Linux distros, scripts & system tools
++ 📦 Experimental builds & side projects
++ 📚 Project notes, roadmaps & changelogs
 
 
 ## 🧩 CMS Development
@@ -29,12 +29,12 @@ This repo serves as a hub, linking to categorized index repositories by project 
 🔗 [wp-index](https://github.com/zimindev/wp-index) – **WordPress** repositories
 
 🔗 [woo-index](https://github.com/zimindev/woo-index) – **WooCommerce** focused projects
-🛠️ Custom plugins & theme development
-🎨 Gutenberg blocks, widgets & shortcodes
-🧰 ACF, CPTs & WP REST API integrations
-💳 WooCommerce customizations & extensions
-🔧 Performance, security & SEO for CMS
-📚 Dev notes, code snippets & WP community gems
++ 🛠️ Custom plugins & theme development
++ 🎨 Gutenberg blocks, widgets & shortcodes
++ 🧰 ACF, CPTs & WP REST API integrations
++ 💳 WooCommerce customizations & extensions
++ 🔧 Performance, security & SEO for CMS
++ 📚 Dev notes, code snippets & WP community gems
 
 
 ## 👨‍💻Web Development
@@ -42,55 +42,55 @@ This repo serves as a hub, linking to categorized index repositories by project 
 🔗 [webdev-index](https://github.com/zimindev/webdev-index) – **Web development** resources
 
 🔗 [frx-index](https://github.com/zimindev/frx-index) – Frameworks, libraries, stacks
-🌐 HTML, CSS & modern JavaScript
-⚛️ Frontend frameworks: React, Vue, Svelte
-🧱 Backend tools: Node.js, Express, databases
-🧩 Component libraries & UI frameworks
-🚀 Deployment, CI/CD & performance tuning
-📚 Tutorials, boilerplates & dev communities
++ 🌐 HTML, CSS & modern JavaScript
++ ⚛️ Frontend frameworks: React, Vue, Svelte
++ 🧱 Backend tools: Node.js, Express, databases
++ 🧩 Component libraries & UI frameworks
++ 🚀 Deployment, CI/CD & performance tuning
++ 📚 Tutorials, boilerplates & dev communities
 
 
 ## 🎨 Design
 
 🔗 [design-index](https://github.com/zimindev/design-index) – Assets related to **Figma** and **Design** work
-🧩 UI kits, icon packs & design systems
-🖼️ Figma templates, plugins & best practices
-🎯 UX principles, user flows & wireframing
-📱 Responsive design for web & mobile
-⚒️ Prototyping tools & collaboration workflows
-📚 Design inspiration, blogs & community tips
++ 🧩 UI kits, icon packs & design systems
++ 🖼️ Figma templates, plugins & best practices
++ 🎯 UX principles, user flows & wireframing
++ 📱 Responsive design for web & mobile
++ ⚒️ Prototyping tools & collaboration workflows
++ 📚 Design inspiration, blogs & community tips
 
 ## 🔎 SEO
 
 🔗 [seo-index](https://github.com/zimindev/seo-index) – **SEO** strategies and tools
-📈 On-page SEO & keyword optimization
-🔗 Link building strategies & outreach tools
-🧠 Search intent analysis & content planning
-⚙️ Technical SEO, sitemaps & schema markup
-🧪 SEO audits, rank tracking & analytics
-📚 Guides, case studies & community insights
++ 📈 On-page SEO & keyword optimization
++ 🔗 Link building strategies & outreach tools
++ 🧠 Search intent analysis & content planning
++ ⚙️ Technical SEO, sitemaps & schema markup
++ 🧪 SEO audits, rank tracking & analytics
++ 📚 Guides, case studies & community insights
 
 ## ✍️ Blogs & Content
 
 🔗 [blog-index](https://github.com/zimindev/blog-index) – Web development **blog**
 
 🔗 [gde-index](https://github.com/zimindev/gde-index) – Guides, Docs & **Education**
-📝 Articles on coding, tools & workflows
-📚 How-to guides, tutorials & cheatsheets
-💡 Personal insights, tips & dev reflections
-🧠 Deep dives into frameworks & libraries
-🛠️ Real-world use cases & best practices
-🌍 Sharing knowledge with the dev community
++ 📝 Articles on coding, tools & workflows
++ 📚 How-to guides, tutorials & cheatsheets
++ 💡 Personal insights, tips & dev reflections
++ 🧠 Deep dives into frameworks & libraries
++ 🛠️ Real-world use cases & best practices
++ 🌍 Sharing knowledge with the dev community
 
 ## 📊 Data
 
 🔗 [dbs-index](https://github.com/zimindev/dbs-index) – Databases and data models
-🗄️ SQL & NoSQL database structures
-🔧 ER diagrams, schemas & relationships
-📦 Data modeling for apps & APIs
-🚀 Optimization, indexing & performance tuning
-🔁 Data migration, backups & versioning
-📚 Docs, references & best practices
++ 🗄️ SQL & NoSQL database structures
++ 🔧 ER diagrams, schemas & relationships
++ 📦 Data modeling for apps & APIs
++ 🚀 Optimization, indexing & performance tuning
++ 🔁 Data migration, backups & versioning
++ 📚 Docs, references & best practices
 
 ## 🛠️ System Tools & Utilities
 
@@ -115,9 +115,21 @@ This repo serves as a hub, linking to categorized index repositories by project 
 🔗 [kali-index](https://github.com/zimindev/kali-index) – **Kali Linux** / Pentesting
 
 🔗 [lnx-index](https://github.com/zimindev/lnx-index) – General **Linux** resources
++ 🐧 Arch Linux setup, customizations & tools
++ 🔒 Kali Linux pentesting, ethical hacking & security
++ 📂 System utilities, bash scripts & configuration files
++ ⚙️ Package management, AUR helpers & system updates
++ 🔧 Kernel tweaks, performance tuning & optimization
++ 📚 Linux guides, tutorials & troubleshooting tips
 
 ## 🔐 Security
 🔗 [sec-index](https://github.com/zimindev/sec-index) – **Security** tools & research
++ 🛡️ Web app security, XSS & SQLi prevention
++ 🔍 Vulnerability scanning & penetration testing
++ 🔐 Authentication, JWT & OAuth flows
++ 🧠 Encryption, hashing & secure data storage
++ 🧰 Security tools, scripts & monitoring setups
++ 📚 Research, CVEs & best practices
 
 ## 📚 Documentation & Resources
 
@@ -126,6 +138,12 @@ This repo serves as a hub, linking to categorized index repositories by project 
 🔗 [nts-index](https://github.com/zimindev/nts-index) – Notes and personal knowledge
 
 🔗 [bks-index](https://github.com/zimindev/bks-index) – Bookmarks and useful resources
++ 🗂️ Project docs, tech manuals & API references
++ 🧠 Personal notes, learnings & dev insights
++ 🔖 Curated links, tools & must-read articles
++ 📄 Markdown docs, cheatsheets & code snippets
++ 🧰 Offline resources & dev handbooks
++ 📚 Organized knowledge for quick access
 
 ## 🚁 Drones & UAV
 
