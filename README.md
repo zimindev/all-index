@@ -6,10 +6,22 @@ This repo serves as a hub, linking to categorized index repositories by project 
 ## 💼 Portfolio
 
 🔗 [portfolio-index](https://github.com/zimindev/portfolio-index) – **Frontend**, **Backend** work, websites on **WordPress** and ecommerce plugin **Woocommerce**, **Designe** websites in **Figma**
+🖥️ Custom frontend & backend development
+🌐 WordPress sites & WooCommerce stores
+🎨 UI/UX designs crafted in Figma
+🛍️ E-commerce solutions & integrations
+📱 Responsive layouts & performance tuning
+📚 Case studies, live demos & client projects
 
 ## 🔨 Projects
 
 🔗 [prj-index](https://github.com/zimindev/prj-index) – Open-source **project catalog** and other projects in work
+💻 Frontend & backend applications
+🌐 WordPress sites & WooCommerce stores
+🧩 Custom plugins, themes & integrations
+🐧 Linux distros, scripts & system tools
+📦 Experimental builds & side projects
+📚 Project notes, roadmaps & changelogs
 
 
 ## 🧩 CMS Development
@@ -17,6 +29,12 @@ This repo serves as a hub, linking to categorized index repositories by project 
 🔗 [wp-index](https://github.com/zimindev/wp-index) – **WordPress** repositories
 
 🔗 [woo-index](https://github.com/zimindev/woo-index) – **WooCommerce** focused projects
+🛠️ Custom plugins & theme development
+🎨 Gutenberg blocks, widgets & shortcodes
+🧰 ACF, CPTs & WP REST API integrations
+💳 WooCommerce customizations & extensions
+🔧 Performance, security & SEO for CMS
+📚 Dev notes, code snippets & WP community gems
 
 
 ## 👨‍💻Web Development
@@ -24,25 +42,55 @@ This repo serves as a hub, linking to categorized index repositories by project 
 🔗 [webdev-index](https://github.com/zimindev/webdev-index) – **Web development** resources
 
 🔗 [frx-index](https://github.com/zimindev/frx-index) – Frameworks, libraries, stacks
+🌐 HTML, CSS & modern JavaScript
+⚛️ Frontend frameworks: React, Vue, Svelte
+🧱 Backend tools: Node.js, Express, databases
+🧩 Component libraries & UI frameworks
+🚀 Deployment, CI/CD & performance tuning
+📚 Tutorials, boilerplates & dev communities
 
 
 ## 🎨 Design
 
 🔗 [design-index](https://github.com/zimindev/design-index) – Assets related to **Figma** and **Design** work
+🧩 UI kits, icon packs & design systems
+🖼️ Figma templates, plugins & best practices
+🎯 UX principles, user flows & wireframing
+📱 Responsive design for web & mobile
+⚒️ Prototyping tools & collaboration workflows
+📚 Design inspiration, blogs & community tips
 
 ## 🔎 SEO
 
 🔗 [seo-index](https://github.com/zimindev/seo-index) – **SEO** strategies and tools
+📈 On-page SEO & keyword optimization
+🔗 Link building strategies & outreach tools
+🧠 Search intent analysis & content planning
+⚙️ Technical SEO, sitemaps & schema markup
+🧪 SEO audits, rank tracking & analytics
+📚 Guides, case studies & community insights
 
 ## ✍️ Blogs & Content
 
 🔗 [blog-index](https://github.com/zimindev/blog-index) – Web development **blog**
 
 🔗 [gde-index](https://github.com/zimindev/gde-index) – Guides, Docs & **Education**
+📝 Articles on coding, tools & workflows
+📚 How-to guides, tutorials & cheatsheets
+💡 Personal insights, tips & dev reflections
+🧠 Deep dives into frameworks & libraries
+🛠️ Real-world use cases & best practices
+🌍 Sharing knowledge with the dev community
 
 ## 📊 Data
 
 🔗 [dbs-index](https://github.com/zimindev/dbs-index) – Databases and data models
+🗄️ SQL & NoSQL database structures
+🔧 ER diagrams, schemas & relationships
+📦 Data modeling for apps & APIs
+🚀 Optimization, indexing & performance tuning
+🔁 Data migration, backups & versioning
+📚 Docs, references & best practices
 
 ## 🛠️ System Tools & Utilities
 
@@ -60,7 +108,7 @@ This repo serves as a hub, linking to categorized index repositories by project 
 
 🔗 [cht-index](https://github.com/zimindev/cht-index) – Cheatsheets and quick refs
 
-## 🔐 Security & OS
+##  Linux
 
 🔗 [arch-index](https://github.com/zimindev/arch-index) – **Arch Linux** configs/tools
 
@@ -68,6 +116,7 @@ This repo serves as a hub, linking to categorized index repositories by project 
 
 🔗 [lnx-index](https://github.com/zimindev/lnx-index) – General **Linux** resources
 
+## 🔐 Security
 🔗 [sec-index](https://github.com/zimindev/sec-index) – **Security** tools & research
 
 ## 📚 Documentation & Resources
