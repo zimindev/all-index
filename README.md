@@ -108,7 +108,7 @@ This repo serves as a hub, linking to categorized index repositories by project 
 
 🔗 [cht-index](https://github.com/zimindev/cht-index) – Cheatsheets and quick refs
 
-##  Linux
+## 🐧Linux
 
 🔗 [arch-index](https://github.com/zimindev/arch-index) – **Arch Linux** configs/tools
 
