@@ -139,6 +139,26 @@ This repo serves as a hub, linking to categorized index repositories by project 
 + 🔧 Monitoring, logging & resource limits  
 + 📚 Tutorials, kubectl cheatsheets & docs  
 
+## ⚙️ Server Automation  
+🔗 [ansible-index](https://github.com/zimindev/ansible-index) – **Ansible** playbooks & automation scripts
+
++ 🛠️ Server provisioning & environment setup  
++ 🖥️ LAMP/LEMP stacks, databases, SSH config  
++ 🔐 Hardening, firewalls, users & permissions  
++ 📦 Package installation & service configuration  
++ 🔄 Automated backups, cron jobs & updates  
++ 📚 Roles, inventories & playbook examples  
+
+## 🧠 AI / ML Projects  
+🔗 [ai-index](https://github.com/zimindev/ai-index) – Machine Learning & AI-based experiments and tools
+
++ 🤖 Large Language Models, chatbots & prompt engineering  
++ 📊 Training datasets, model evaluation & fine-tuning  
++ 🧪 Experiments with TensorFlow, PyTorch, scikit-learn  
++ 🔌 API wrappers for OpenAI, HuggingFace, etc.  
++ 📈 Predictive analytics, NLP, image recognition  
++ 📚 Research papers, notebooks & educational content  
+
 
 ## 🔐 Security
 🔗 [sec-index](https://github.com/zimindev/sec-index) – **Security** tools & research
