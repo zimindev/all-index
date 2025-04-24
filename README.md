@@ -6,12 +6,12 @@ This repo serves as a hub, linking to categorized index repositories by project 
 ## 💼 Portfolio
 
 🔗 [portfolio-index](https://github.com/zimindev/portfolio-index) – **Frontend**, **Backend** work, websites on **WordPress** and ecommerce plugin **Woocommerce**, **Designe** websites in **Figma**
-🖥️ Custom frontend & backend development
-🌐 WordPress sites & WooCommerce stores
-🎨 UI/UX designs crafted in Figma
-🛍️ E-commerce solutions & integrations
-📱 Responsive layouts & performance tuning
-📚 Case studies, live demos & client projects
++ 🖥️ Custom frontend & backend development
++ 🌐 WordPress sites & WooCommerce stores
++ 🎨 UI/UX designs crafted in Figma
++ 🛍️ E-commerce solutions & integrations
++ 📱 Responsive layouts & performance tuning
++ 📚 Case studies, live demos & client projects
 
 ## 🔨 Projects
 
