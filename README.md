@@ -127,6 +127,15 @@ This repo serves as a hub, linking to categorized index repositories by project 
 + 🧰 Security tools, scripts & monitoring setups
 + 📚 Research, CVEs & best practices
 
+## 🤖 Bots & Automation
+🔗 [bot-index](https://github.com/zimindev/bot-index) – Scripts, bots & automation tools
+💬 Telegram, Discord & chat-based bots
+📦 Web scraping, parsing & data collectors
+⚙️ Task automation, schedulers & CLI tools
+🧠 AI-driven interactions & logic flows
+🔌 API integrations & webhook handlers
+📚 Docs, bot logic & deployment notes
+
 ## 📚 Documentation & Resources
 
 🔗 [doc-index](https://github.com/zimindev/doc-index) – Documentation & manuals
