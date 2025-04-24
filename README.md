@@ -70,10 +70,6 @@ This repo serves as a hub, linking to categorized index repositories by project 
 
 🔗 [sec-index](https://github.com/zimindev/sec-index) – **Security** tools & research
 
-## 🔎 SEO
-
-🔗 [seo-index](https://github.com/zimindev/seo-index) – **SEO** strategies and tools
-
 ## 📚 Documentation & Resources
 
 🔗 [doc-index](https://github.com/zimindev/doc-index) – Documentation & manuals
