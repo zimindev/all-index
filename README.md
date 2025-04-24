@@ -48,7 +48,7 @@ This repo serves as a hub, linking to categorized index repositories by project 
 
 ## 🎨 Web Design
 
-🔗 [design-index](https://github.com/zimindev/design-index) – Assets related to **Figma** and **Design** work
+🔗 [webdes-index](https://github.com/zimindev/webdes-index) – Assets related to **Figma** and **Design** work
 + 🧩 UI kits, icon packs & design systems
 + 🖼️ Figma templates, plugins & best practices
 + 🎯 UX principles, user flows & wireframing
@@ -70,7 +70,7 @@ This repo serves as a hub, linking to categorized index repositories by project 
 
 🔗 [blog-index](https://github.com/zimindev/blog-index) – Web development **blog**
 
-🔗 [gde-index](https://github.com/zimindev/gde-index) – Guides, Docs & **Education**
+🔗 [gde-index](https://github.com/zimindev/gde-index) – Guides
 + 📝 Articles on coding, tools & workflows
 + 📚 How-to guides, tutorials & cheatsheets
 + 💡 Personal insights, tips & dev reflections
@@ -105,18 +105,18 @@ This repo serves as a hub, linking to categorized index repositories by project 
 🔗 [cht-index](https://github.com/zimindev/cht-index) – Cheatsheets and quick refs
 
 ## 🐧Linux
+🔗 [lnx-index](https://github.com/zimindev/lnx-index) – General **Linux** resources
 
 🔗 [arch-index](https://github.com/zimindev/arch-index) – **Arch Linux** configs/tools
 
 🔗 [kali-index](https://github.com/zimindev/kali-index) – **Kali Linux** / Pentesting
 
-🔗 [lnx-index](https://github.com/zimindev/lnx-index) – General **Linux** resources
 + 🐧 Arch Linux setup, customizations & tools
 + 🔒 Kali Linux pentesting, ethical hacking & security
 + 📂 System utilities, bash scripts & configuration files
 + ⚙️ Package management, AUR helpers & system updates
 + 🔧 Kernel tweaks, performance tuning & optimization
-+ 📚 Linux guides, tutorials & troubleshooting tips
++ 📚 Linux tutorials & troubleshooting tips
 
 ## 🔐 Security
 🔗 [sec-index](https://github.com/zimindev/sec-index) – **Security** tools & research
@@ -141,6 +141,7 @@ This repo serves as a hub, linking to categorized index repositories by project 
 + 🧰 Offline resources & dev handbooks
 + 📚 Organized knowledge for quick access
 
+# 📂 Others-Index Repository
 ## 🚁 Drones & UAV
 
 🔗 [drone-index](https://github.com/zimindev/drone-index) – Projects, tools, and notes about **quadcopters** and **UAV tech**
