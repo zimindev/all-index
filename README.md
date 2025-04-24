@@ -167,7 +167,7 @@ This repo serves as a hub, linking to categorized index repositories by project 
 
 ## 🔐 Personal
 
-🔗 [zimin_dev-index](https://github.com/zimindev/zimin_dev-index) *(private)* – Personal dev environment and assets
+🔗 [my-index](https://github.com/zimindev/my-index) *(private)* – Personal dev environment and assets
 
 🔗 [logs-index](https://github.com/zimindev/logs-index) – Logs, changelogs & updates
 
