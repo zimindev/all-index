@@ -5,7 +5,7 @@ This repo serves as a hub, linking to categorized index repositories by project 
 
 ## 💼 Portfolio
 
-🔗 [portfolio-index](https://github.com/zimindev/portfolio-index) – **Frontend**, **Backend** work, websites on **WordPress** and ecommerce plugin **Woocommerce**, **Designe** websites in **Figma**
+🔗 [portfolio-index](https://github.com/zimindev/portfolio-index) – **Frontend**, **Backend**, **WordPress** and ecommerce **Woocommerce** work, Web **Designe**/**Figma**
 + 🖥️ Custom frontend & backend development
 + 🌐 WordPress sites & WooCommerce stores
 + 🎨 UI/UX designs crafted in Figma
@@ -15,16 +15,14 @@ This repo serves as a hub, linking to categorized index repositories by project 
 
 ## 🔨 Projects
 
-🔗 [prj-index](https://github.com/zimindev/prj-index) – Open-source **project catalog** and other projects in work
+🔗 [prj-index](https://github.com/zimindev/prj-index) – **Project catalog**, Open-source projects and other projects in work
 + 💻 Frontend & backend applications
 + 🌐 WordPress sites & WooCommerce stores
 + 🧩 Custom plugins, themes & integrations
 + 🐧 Linux distros, scripts & system tools
 + 📦 Experimental builds & side projects
-+ 📚 Project notes, roadmaps & changelogs
 
-
-## 🧩 CMS Development
+## 🧩 CMS WordPress Development
 
 🔗 [wp-index](https://github.com/zimindev/wp-index) – **WordPress** repositories
 
@@ -39,9 +37,7 @@ This repo serves as a hub, linking to categorized index repositories by project 
 
 ## 👨‍💻Web Development
 
-🔗 [webdev-index](https://github.com/zimindev/webdev-index) – **Web development** resources
-
-🔗 [frx-index](https://github.com/zimindev/frx-index) – Frameworks, libraries, stacks
+🔗 [webdev-index](https://github.com/zimindev/webdev-index) – **Web development** resources, Frameworks, libraries, stacks
 + 🌐 HTML, CSS & modern JavaScript
 + ⚛️ Frontend frameworks: React, Vue, Svelte
 + 🧱 Backend tools: Node.js, Express, databases
@@ -50,7 +46,7 @@ This repo serves as a hub, linking to categorized index repositories by project 
 + 📚 Tutorials, boilerplates & dev communities
 
 
-## 🎨 Design
+## 🎨 Web Design
 
 🔗 [design-index](https://github.com/zimindev/design-index) – Assets related to **Figma** and **Design** work
 + 🧩 UI kits, icon packs & design systems
