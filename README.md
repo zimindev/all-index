@@ -213,6 +213,28 @@ This repo serves as a hub, linking to categorized index repositories by project 
  + 📈 Risk management calculators
  + 📚 Educational resources & trading journals
 
+## 📦 Software  
+**🔗 [soft-index](#)** – Applications and tools for development, design, and testing  
+
+**Description:**  
+- 🛠️ Desktop tools and development software  
+- 🎨 Design & prototyping tools (e.g., Bootstrap Studio, Figma Desktop, Adobe XD)  
+- 🧪 Testing tools, emulators & sandbox environments  
+- 📚 Documentation, installers & setup guides  
+- 🧰 Custom settings, templates & configs  
+
+---
+
+## 🔑 Keys & Licenses  
+**🔗 [keys-index](#)** – Repository for storing license keys, access tokens, and secrets  
+
+**Description:**  
+- 🔐 Software license keys (for private/local use)  
+- 🧾 API keys, access tokens, secret credentials (with optional placeholders)  
+- 🔒 GPG/SSH keys, certificates, and security settings  
+- 📚 Backup instructions and key management guides  
+- ⚠️ **Recommended to keep this repository private or encrypted**
+
 ## 🔐 Personal
 
 🔗 [my-index](https://github.com/zimindev/my-index) *(private)* – Personal dev environment and assets
