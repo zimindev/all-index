@@ -214,7 +214,7 @@ This repo serves as a hub, linking to categorized index repositories by project 
  + 📚 Educational resources & trading journals
 
 ## 📦 Software  
-**🔗 [soft-index](#)** – Applications and tools for development, design, and testing  
+**🔗 [soft-index](https://github.com/zimindev/soft-index)** – Applications and tools for development, design, and testing  
 
 **Description:**  
 - 🛠️ Desktop tools and development software  
@@ -226,7 +226,7 @@ This repo serves as a hub, linking to categorized index repositories by project 
 ---
 
 ## 🔑 Keys & Licenses  
-**🔗 [keys-index](#)** – Repository for storing license keys, access tokens, and secrets  
+**🔗 [key-index](https://github.com/zimindev/key-index)** – Repository for storing license keys, access tokens, and secrets  
 
 **Description:**  
 - 🔐 Software license keys (for private/local use)  
