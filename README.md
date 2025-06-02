@@ -66,7 +66,7 @@ This repo serves as a hub, linking to categorized index repositories by project 
 + 🧪 SEO audits, rank tracking & analytics
 + 📚 Guides, case studies & community insights
 
-## ✍️ Blogs & Content | 📚 Documentation & Resources
+## ✍️ Blogs / Documentation / Resources
 
 🔗 [blog-index](https://github.com/zimindev/blog-index) – Web development **blog**
 
