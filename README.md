@@ -70,9 +70,9 @@ This repo serves as a hub, linking to categorized index repositories by project 
 
 🔗 [blog-index](https://github.com/zimindev/blog-index) – Web development **blog**
 
-🔗 [gde-index](https://github.com/zimindev/gde-index) – Guides
+🔗 [gde-index](https://github.com/zimindev/gde-index) – Guides & Manuals
 
-🔗 [doc-index](https://github.com/zimindev/doc-index) – Documentation & manuals
+🔗 [doc-index](https://github.com/zimindev/doc-index) – Documentation
 
 🔗 [bks-index](https://github.com/zimindev/bks-index) – Bookmarks and useful resources
 + 📝 Articles on coding, tools & workflows
@@ -92,9 +92,11 @@ This repo serves as a hub, linking to categorized index repositories by project 
 + 🔁 Data migration, backups & versioning
 + 📚 Docs, references & best practices
 
-## 🛠️ System Tools & Utilities
+## 🛠️ System Tools / Utilities / Software
 
 🔗 [toolkit-index](https://github.com/zimindev/toolkit-index) – Tools & utilities
+
+🔗 [soft-index](https://github.com/zimindev/soft-index) – Applications and tools for development, design, and testing 
 
 🔗 [sys-index](https://github.com/zimindev/sys-index) – System administration scripts
 
@@ -108,17 +110,11 @@ This repo serves as a hub, linking to categorized index repositories by project 
 
 🔗 [cht-index](https://github.com/zimindev/cht-index) – Cheatsheets and quick refs
 
-## 📦 Software  
-**🔗 [soft-index](https://github.com/zimindev/soft-index)** – Applications and tools for development, design, and testing  
-
-**Description:**  
-- 🛠️ Desktop tools and development software  
-- 🎨 Design & prototyping tools (e.g., Bootstrap Studio, Figma Desktop, Adobe XD)  
-- 🧪 Testing tools, emulators & sandbox environments  
-- 📚 Documentation, installers & setup guides  
-- 🧰 Custom settings, templates & configs  
-
----
++ 🛠️ Desktop tools and development software  
++ 🎨 Design & prototyping tools (e.g., Bootstrap Studio, Figma Desktop, Adobe XD)  
++ 🧪 Testing tools, emulators & sandbox environments  
++ 📚 Documentation, installers & setup guides  
++ 🧰 Custom settings, templates & configs  
 
 ## 🐧Linux
 🔗 [lnx-index](https://github.com/zimindev/lnx-index) – General **Linux** resources
@@ -170,16 +166,16 @@ This repo serves as a hub, linking to categorized index repositories by project 
 🔗 [bot-index](https://github.com/zimindev/bot-index) – Scripts, bots & automation tools
 
 + 🤖 Large Language Models, chatbots & prompt engineering  
-+ 📊 Training datasets, model evaluation & fine-tuning  
-+ 🧪 Experiments with TensorFlow, PyTorch, scikit-learn  
-+ 🔌 API wrappers for OpenAI, HuggingFace, etc.  
++ 📊 Training datasets, model evaluation & fine-tuning   
++ 🔌 API wrappers for OpenAI, HuggingFace, etc.
++ 🔌 API integrations & webhook handlers
 + 📈 Predictive analytics, NLP, image recognition  
 + 📚 Research papers, notebooks & educational content
 + 💬 Telegram, Discord & chat-based bots
 + 📦 Web scraping, parsing & data collectors
 + ⚙️ Task automation, schedulers & CLI tools
 + 🧠 AI-driven interactions & logic flows
-+ 🔌 API integrations & webhook handlers
++ 🧪 Experiments with TensorFlow, PyTorch, scikit-learn 
 + 📚 Docs, bot logic & deployment notes
 
 
