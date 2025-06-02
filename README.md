@@ -1,4 +1,4 @@
-# 📂 All-Index Repository  
+# 📂 All Index Repository  
 
 Welcome to the main index of **ZiminDev** repositories!  
 This repo serves as a hub, linking to categorized index repositories by project type.
@@ -163,6 +163,7 @@ This repo serves as a hub, linking to categorized index repositories by project 
 
 ## 🧠 AI / ML Projects / Bots & Automation
 🔗 [ai-index](https://github.com/zimindev/ai-index) – Machine Learning & AI-based experiments and tools
+
 🔗 [bot-index](https://github.com/zimindev/bot-index) – Scripts, bots & automation tools
 
 + 🤖 Large Language Models, chatbots & prompt engineering  
@@ -184,11 +185,10 @@ This repo serves as a hub, linking to categorized index repositories by project 
 + 🧰 Security tools, scripts & monitoring setups
 + 📚 Research, CVEs & best practices
 
-# 📂 Others-Index Repository
+# 📂 Others Index Repository
 ## 💰Forex & Trading Tool
 
 🔗 [forex-index](https://github.com/zimindev/forex-index) – Trading, market analysis tools & financial libraries
-
  + 🤖 Algorithmic trading systems
  + 📊 Technical indicators & backtesting scripts
  + 💹 Broker API integrations (MetaTrader, OANDA, Binance)
@@ -207,9 +207,8 @@ This repo serves as a hub, linking to categorized index repositories by project 
 
 
 ## 🔑 Keys & Licenses  
-**🔗 [key-index](https://github.com/zimindev/key-index)** – Repository for storing license keys, access tokens, and secrets  
 
-**Description:**  
+🔗 [key-index](https://github.com/zimindev/key-index) – Repository for storing license keys, access tokens, and secrets  
  + 🔐 Software license keys (for private/local use)  
  + 🧾 API keys, access tokens, secret credentials (with optional placeholders)  
  + 🔒 GPG/SSH keys, certificates, and security settings  
@@ -218,9 +217,11 @@ This repo serves as a hub, linking to categorized index repositories by project 
 
 ## 🔐 Personal
 
- + 🔗 [my-index](https://github.com/zimindev/my-index) *(private)* – Personal dev environment and assets
- + 🔗 [nts-index](https://github.com/zimindev/nts-index) – Notes and personal knowledge
- + 🔗 [logs-index](https://github.com/zimindev/logs-index) – Logs, changelogs & updates
+🔗 [my-index](https://github.com/zimindev/my-index) *(private)* – Personal dev environment and assets
+
+🔗 [nts-index](https://github.com/zimindev/nts-index) – Notes and personal knowledge
+
+🔗 [logs-index](https://github.com/zimindev/logs-index) – Logs, changelogs & updates
 
 ## 🌟 **Stay Connected** 
 
