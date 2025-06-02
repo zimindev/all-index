@@ -167,15 +167,11 @@ This repo serves as a hub, linking to categorized index repositories by project 
 
 + 🤖 Large Language Models, chatbots & prompt engineering  
 + 📊 Training datasets, model evaluation & fine-tuning   
-+ 🔌 API wrappers for OpenAI, HuggingFace, etc.
 + 🔌 API integrations & webhook handlers
-+ 📈 Predictive analytics, NLP, image recognition  
-+ 📚 Research papers, notebooks & educational content
 + 💬 Telegram, Discord & chat-based bots
 + 📦 Web scraping, parsing & data collectors
 + ⚙️ Task automation, schedulers & CLI tools
 + 🧠 AI-driven interactions & logic flows
-+ 🧪 Experiments with TensorFlow, PyTorch, scikit-learn 
 + 📚 Docs, bot logic & deployment notes
 
 
