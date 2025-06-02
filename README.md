@@ -56,6 +56,17 @@ This repo serves as a hub, linking to categorized index repositories by project 
 + ⚒️ Prototyping tools & collaboration workflows
 + 📚 Design inspiration, blogs & community tips
 
+## 📊 DataBase (WP & Woo)
+
+🔗 [dbs-index](https://github.com/zimindev/dbs-index) – Databases and data models
++ 🗄️ SQL & NoSQL database structures (MySQL, PostgreSQL, MongoDB)
++ 🔧 ER diagrams, schemas & relationships
++ 📦 Data modeling for web apps & APIs (SQL: MySQL-phpMyAdmin, PostgreSQL-pgAdmin, SQLite)
++ 🚀 Optimization, indexing & performance tuning
++ 🔁 Data migration, backups & versioning
++ 🧩 WordPress/WooCommerce: Custom tables, wpdb optimizations, Hybrid DB setups
++ 📚 Docs, references & best practices
+
 ## 🔎 SEO
 
 🔗 [seo-index](https://github.com/zimindev/seo-index) – **SEO** strategies and tools
@@ -81,16 +92,6 @@ This repo serves as a hub, linking to categorized index repositories by project 
 + 🧠 Deep dives into frameworks & libraries
 + 🛠️ Real-world use cases & best practices
 + 🌍 Sharing knowledge with the dev community
-
-## 📊 Data
-
-🔗 [dbs-index](https://github.com/zimindev/dbs-index) – Databases and data models
-+ 🗄️ SQL & NoSQL database structures
-+ 🔧 ER diagrams, schemas & relationships
-+ 📦 Data modeling for apps & APIs
-+ 🚀 Optimization, indexing & performance tuning
-+ 🔁 Data migration, backups & versioning
-+ 📚 Docs, references & best practices
 
 ## 🛠️ System Tools / Utilities / Software
 
