@@ -196,16 +196,6 @@ This repo serves as a hub, linking to categorized index repositories by project 
 
 
 # 📂 Others-Index Repository
-## 🚁 Drones & UAV
-
-🔗 [drone-index](https://github.com/zimindev/drone-index) – Projects, tools, and notes about **quadcopters** and **UAV tech**
- + 🛠️ Drone firmware & flight controllers
- + 📡 Telemetry systems & real-time data tracking
- + 🧭 Navigation algorithms & GPS modules
- + 🖥️ Ground control software & mobile apps
- + 🧪 DIY builds, hardware mods & tuning guides
- + 📚 Educational resources & community knowledge
-
 ## 💰Forex & Trading Tool
 
 🔗 [forex-index](https://github.com/zimindev/forex-index) – Trading, market analysis tools & financial libraries
@@ -216,21 +206,32 @@ This repo serves as a hub, linking to categorized index repositories by project 
  + 📈 Risk management calculators
  + 📚 Educational resources & trading journals
 
+## 🚁 Drones & UAV
+
+🔗 [drone-index](https://github.com/zimindev/drone-index) – Projects, tools, and notes about **quadcopters** and **UAV tech**
+ + 🛠️ Drone firmware & flight controllers
+ + 📡 Telemetry systems & real-time data tracking
+ + 🧭 Navigation algorithms & GPS modules
+ + 🖥️ Ground control software & mobile apps
+ + 🧪 DIY builds, hardware mods & tuning guides
+ + 📚 Educational resources & community knowledge
+
+
 ## 🔑 Keys & Licenses  
 **🔗 [key-index](https://github.com/zimindev/key-index)** – Repository for storing license keys, access tokens, and secrets  
 
 **Description:**  
-- 🔐 Software license keys (for private/local use)  
-- 🧾 API keys, access tokens, secret credentials (with optional placeholders)  
-- 🔒 GPG/SSH keys, certificates, and security settings  
-- 📚 Backup instructions and key management guides  
-- ⚠️ **Recommended to keep this repository private or encrypted**
+ + 🔐 Software license keys (for private/local use)  
+ + 🧾 API keys, access tokens, secret credentials (with optional placeholders)  
+ + 🔒 GPG/SSH keys, certificates, and security settings  
+ + 📚 Backup instructions and key management guides  
+ + ⚠️ **Recommended to keep this repository private or encrypted**
 
 ## 🔐 Personal
 
-🔗 [my-index](https://github.com/zimindev/my-index) *(private)* – Personal dev environment and assets
-🔗 [nts-index](https://github.com/zimindev/nts-index) – Notes and personal knowledge
-🔗 [logs-index](https://github.com/zimindev/logs-index) – Logs, changelogs & updates
+ + 🔗 [my-index](https://github.com/zimindev/my-index) *(private)* – Personal dev environment and assets
+ + 🔗 [nts-index](https://github.com/zimindev/nts-index) – Notes and personal knowledge
+ + 🔗 [logs-index](https://github.com/zimindev/logs-index) – Logs, changelogs & updates
 
 ## 🌟 **Stay Connected** 
 
