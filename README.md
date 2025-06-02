@@ -165,15 +165,22 @@ This repo serves as a hub, linking to categorized index repositories by project 
 + 🔄 Automated backups, cron jobs & updates  
 + 📚 Roles, inventories & playbook examples  
 
-## 🧠 AI / ML Projects  
+## 🧠 AI / ML Projects / Bots & Automation
 🔗 [ai-index](https://github.com/zimindev/ai-index) – Machine Learning & AI-based experiments and tools
+🔗 [bot-index](https://github.com/zimindev/bot-index) – Scripts, bots & automation tools
 
 + 🤖 Large Language Models, chatbots & prompt engineering  
 + 📊 Training datasets, model evaluation & fine-tuning  
 + 🧪 Experiments with TensorFlow, PyTorch, scikit-learn  
 + 🔌 API wrappers for OpenAI, HuggingFace, etc.  
 + 📈 Predictive analytics, NLP, image recognition  
-+ 📚 Research papers, notebooks & educational content  
++ 📚 Research papers, notebooks & educational content
++ 💬 Telegram, Discord & chat-based bots
++ 📦 Web scraping, parsing & data collectors
++ ⚙️ Task automation, schedulers & CLI tools
++ 🧠 AI-driven interactions & logic flows
++ 🔌 API integrations & webhook handlers
++ 📚 Docs, bot logic & deployment notes
 
 
 ## 🔐 Security
@@ -184,16 +191,6 @@ This repo serves as a hub, linking to categorized index repositories by project 
 + 🧠 Encryption, hashing & secure data storage
 + 🧰 Security tools, scripts & monitoring setups
 + 📚 Research, CVEs & best practices
-
-## 🤖 Bots & Automation
-🔗 [bot-index](https://github.com/zimindev/bot-index) – Scripts, bots & automation tools
-+ 💬 Telegram, Discord & chat-based bots
-+ 📦 Web scraping, parsing & data collectors
-+ ⚙️ Task automation, schedulers & CLI tools
-+ 🧠 AI-driven interactions & logic flows
-+ 🔌 API integrations & webhook handlers
-+ 📚 Docs, bot logic & deployment notes
-
 
 # 📂 Others-Index Repository
 ## 💰Forex & Trading Tool
