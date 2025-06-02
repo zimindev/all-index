@@ -3,7 +3,7 @@
 Welcome to the main index of **ZiminDev** repositories!  
 This repo serves as a hub, linking to categorized index repositories by project type.
 
-## 💼 Portfolio
+## 💼 Portfolio 
 
 🔗 [portfolio-index](https://github.com/zimindev/portfolio-index) – **Frontend**, **Backend**, **WordPress** and ecommerce **Woocommerce** work, Web **Designe**/**Figma**
 + 🖥️ Custom frontend & backend development
@@ -22,7 +22,7 @@ This repo serves as a hub, linking to categorized index repositories by project 
 + 🐧 Linux distros, scripts & system tools
 + 📦 Experimental builds & side projects
 
-## 🧩 CMS WordPress Development
+## 📦 CMS WordPress & WooCommerce Development
 
 🔗 [wp-index](https://github.com/zimindev/wp-index) – **WordPress** repositories
 
@@ -66,11 +66,15 @@ This repo serves as a hub, linking to categorized index repositories by project 
 + 🧪 SEO audits, rank tracking & analytics
 + 📚 Guides, case studies & community insights
 
-## ✍️ Blogs & Content
+## ✍️ Blogs & Content | 📚 Documentation & Resources
 
 🔗 [blog-index](https://github.com/zimindev/blog-index) – Web development **blog**
 
 🔗 [gde-index](https://github.com/zimindev/gde-index) – Guides
+
+🔗 [doc-index](https://github.com/zimindev/doc-index) – Documentation & manuals
+
+🔗 [bks-index](https://github.com/zimindev/bks-index) – Bookmarks and useful resources
 + 📝 Articles on coding, tools & workflows
 + 📚 How-to guides, tutorials & cheatsheets
 + 💡 Personal insights, tips & dev reflections
@@ -103,6 +107,18 @@ This repo serves as a hub, linking to categorized index repositories by project 
 🔗 [utl-index](https://github.com/zimindev/utl-index) – Useful utilities/scripts
 
 🔗 [cht-index](https://github.com/zimindev/cht-index) – Cheatsheets and quick refs
+
+## 📦 Software  
+**🔗 [soft-index](https://github.com/zimindev/soft-index)** – Applications and tools for development, design, and testing  
+
+**Description:**  
+- 🛠️ Desktop tools and development software  
+- 🎨 Design & prototyping tools (e.g., Bootstrap Studio, Figma Desktop, Adobe XD)  
+- 🧪 Testing tools, emulators & sandbox environments  
+- 📚 Documentation, installers & setup guides  
+- 🧰 Custom settings, templates & configs  
+
+---
 
 ## 🐧Linux
 🔗 [lnx-index](https://github.com/zimindev/lnx-index) – General **Linux** resources
@@ -178,19 +194,6 @@ This repo serves as a hub, linking to categorized index repositories by project 
 + 🔌 API integrations & webhook handlers
 + 📚 Docs, bot logic & deployment notes
 
-## 📚 Documentation & Resources
-
-🔗 [doc-index](https://github.com/zimindev/doc-index) – Documentation & manuals
-
-🔗 [nts-index](https://github.com/zimindev/nts-index) – Notes and personal knowledge
-
-🔗 [bks-index](https://github.com/zimindev/bks-index) – Bookmarks and useful resources
-+ 🗂️ Project docs, tech manuals & API references
-+ 🧠 Personal notes, learnings & dev insights
-+ 🔖 Curated links, tools & must-read articles
-+ 📄 Markdown docs, cheatsheets & code snippets
-+ 🧰 Offline resources & dev handbooks
-+ 📚 Organized knowledge for quick access
 
 # 📂 Others-Index Repository
 ## 🚁 Drones & UAV
@@ -213,18 +216,6 @@ This repo serves as a hub, linking to categorized index repositories by project 
  + 📈 Risk management calculators
  + 📚 Educational resources & trading journals
 
-## 📦 Software  
-**🔗 [soft-index](https://github.com/zimindev/soft-index)** – Applications and tools for development, design, and testing  
-
-**Description:**  
-- 🛠️ Desktop tools and development software  
-- 🎨 Design & prototyping tools (e.g., Bootstrap Studio, Figma Desktop, Adobe XD)  
-- 🧪 Testing tools, emulators & sandbox environments  
-- 📚 Documentation, installers & setup guides  
-- 🧰 Custom settings, templates & configs  
-
----
-
 ## 🔑 Keys & Licenses  
 **🔗 [key-index](https://github.com/zimindev/key-index)** – Repository for storing license keys, access tokens, and secrets  
 
@@ -238,7 +229,7 @@ This repo serves as a hub, linking to categorized index repositories by project 
 ## 🔐 Personal
 
 🔗 [my-index](https://github.com/zimindev/my-index) *(private)* – Personal dev environment and assets
-
+🔗 [nts-index](https://github.com/zimindev/nts-index) – Notes and personal knowledge
 🔗 [logs-index](https://github.com/zimindev/logs-index) – Logs, changelogs & updates
 
 ## 🌟 **Stay Connected** 
