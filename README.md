@@ -214,7 +214,7 @@ This repo serves as a hub, linking to categorized index repositories by project 
  + 🧪 DIY builds, hardware mods & tuning guides
  + 📚 Educational resources & community knowledge
 
-## 🔒🔐 Personal
+## 🧑‍💼 Personal
 🔗 [gde-index](https://github.com/zimindev/gde-index) – Guides & Manuals
 
 🔗 [doc-index](https://github.com/zimindev/doc-index) – Documentation
@@ -227,14 +227,13 @@ This repo serves as a hub, linking to categorized index repositories by project 
 
 🔗 [logs-index](https://github.com/zimindev/logs-index) – Logs, changelogs & updates
 
-## 🔒🔑 Keys & Licenses  
+## 🔑 Keys & Licenses / ⚠️ **This repository private/encrypted**
 
 🔗 [key-index](https://github.com/zimindev/key-index) – Repository for storing license keys, access tokens, and secrets  
  + 🔐 Software license keys (for private/local use)  
  + 🧾 API keys, access tokens, secret credentials (with optional placeholders)  
  + 🔒 GPG/SSH keys, certificates, and security settings  
- + 📚 Backup instructions and key management guides  
- + ⚠️ **This repository private/encrypted**
+ + 📚 Backup instructions and key management guides
 
 
 ## 🌟 **Stay Connected** 
