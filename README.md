@@ -1,6 +1,6 @@
 # 📂 All Index Repository  
 
-Welcome to the main index of **ZiminDev** repositories!  
+Welcome to the main index of **Sasha Zimin (zimindev)** repositories!  
 This repo serves as a hub, linking to categorized index repositories by project type.
 
 ## 💼 Portfolio 
