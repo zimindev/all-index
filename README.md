@@ -203,6 +203,7 @@ This repo serves as a hub, linking to categorized index repositories by project 
  + 📚 Backup instructions and key management guides
 
 # 📂 Others Index Repository
+
 ## 💸 Freelance
 
 🔗 [freelance-index](https://github.com/zimindev/freelance-index) – **Freelance job**, contracts, client communication & workflow automation
