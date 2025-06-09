@@ -27,12 +27,19 @@ This repo serves as a hub, linking to categorized index repositories by project 
 🔗 [wp-index](https://github.com/zimindev/wp-index) – **WordPress** repositories
 
 🔗 [woo-index](https://github.com/zimindev/woo-index) – **WooCommerce** focused projects
+
+🔗 [dbs-index](https://github.com/zimindev/dbs-index) – Databases and data models
 + 🛠️ Custom plugins & theme development
 + 🎨 Gutenberg blocks, widgets & shortcodes
 + 🧰 ACF, CPTs & WP REST API integrations
 + 💳 WooCommerce customizations & extensions
-+ 🔧 Performance, security & SEO for CMS
-+ 📚 Dev notes, code snippets & WP community gems
++ 🔧 Performance & security
++ 🗄️ SQL & NoSQL database structures (MySQL, PostgreSQL, MongoDB)
++ 📦 Data modeling for web apps & APIs (SQL: MySQL-phpMyAdmin, PostgreSQL-pgAdmin, SQLite)
++ 🚀 Optimization, indexing & performance tuning
++ 🔁 Data migration, backups & versioning
++ 🧩 WordPress/WooCommerce: Custom tables, wpdb optimizations, Hybrid DB setups
++ 📚 Docs, references & best practices
 
 
 ## 👨‍💻Web Development
@@ -69,16 +76,6 @@ This repo serves as a hub, linking to categorized index repositories by project 
 
 🔗 [logs-index](https://github.com/zimindev/logs-index) – Logs, changelogs & updates
 
-## 📊 DataBase (WP & Woo)
-
-🔗 [dbs-index](https://github.com/zimindev/dbs-index) – Databases and data models
-+ 🗄️ SQL & NoSQL database structures (MySQL, PostgreSQL, MongoDB)
-+ 🔧 ER diagrams, schemas & relationships
-+ 📦 Data modeling for web apps & APIs (SQL: MySQL-phpMyAdmin, PostgreSQL-pgAdmin, SQLite)
-+ 🚀 Optimization, indexing & performance tuning
-+ 🔁 Data migration, backups & versioning
-+ 🧩 WordPress/WooCommerce: Custom tables, wpdb optimizations, Hybrid DB setups
-+ 📚 Docs, references & best practices
 
 ## 🔎 SEO
 
