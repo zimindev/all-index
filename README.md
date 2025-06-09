@@ -64,13 +64,13 @@ This repo serves as a hub, linking to categorized index repositories by project 
 + 📚 Design inspiration, blogs & community tips
 
 ## 🧑‍💼 Personal
+🔗 [my-index](https://github.com/zimindev/my-index) – Personal dev environment and assets
+
 🔗 [gde-index](https://github.com/zimindev/gde-index) – Guides & Manuals
 
 🔗 [doc-index](https://github.com/zimindev/doc-index) – Documentation
 
 🔗 [bks-index](https://github.com/zimindev/bks-index) – Bookmarks and useful resources
-
-🔗 [my-index](https://github.com/zimindev/my-index) *(private)* – Personal dev environment and assets
 
 🔗 [nts-index](https://github.com/zimindev/nts-index) – Notes and personal knowledge
 
