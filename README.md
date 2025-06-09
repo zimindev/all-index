@@ -56,18 +56,18 @@ This repo serves as a hub, linking to categorized index repositories by project 
 + ⚒️ Prototyping tools & collaboration workflows
 + 📚 Design inspiration, blogs & community tips
 
-## 💸 Freelance
+## 🧑‍💼 Personal
+🔗 [gde-index](https://github.com/zimindev/gde-index) – Guides & Manuals
 
-🔗 [freelance-index](https://github.com/zimindev/freelance-index) – **Freelance job**, contracts, client communication & workflow automation
+🔗 [doc-index](https://github.com/zimindev/doc-index) – Documentation
 
-- 👨‍💻 Commissioned projects on Upwork, Fiverr, Freelancehunt, etc.  
-- 📜 Technical specifications (ToR), proposals, and contracts  
-- 🔁 Client workflows, email templates, and CRM integrations  
-- 🔄 Time tracking, reports, invoices, and accounting  
-- 🧩 Automation: scripts, response templates, application forms  
-- 🧠 Freelancing experience, tips, stories, and work cases  
-- 📚 Resources for freelancers: platforms, rules, and courses
+🔗 [bks-index](https://github.com/zimindev/bks-index) – Bookmarks and useful resources
 
+🔗 [my-index](https://github.com/zimindev/my-index) *(private)* – Personal dev environment and assets
+
+🔗 [nts-index](https://github.com/zimindev/nts-index) – Notes and personal knowledge
+
+🔗 [logs-index](https://github.com/zimindev/logs-index) – Logs, changelogs & updates
 
 ## 📊 DataBase (WP & Woo)
 
@@ -194,7 +194,27 @@ This repo serves as a hub, linking to categorized index repositories by project 
 + 🧰 Security tools, scripts & monitoring setups
 + 📚 Research, CVEs & best practices
 
+## 🔑 Keys & Licenses / ⚠️ **This repository private/encrypted**
+
+🔗 [key-index](https://github.com/zimindev/key-index) – Repository for storing license keys, access tokens, and secrets  
+ + 🔐 Software license keys (for private/local use)  
+ + 🧾 API keys, access tokens, secret credentials (with optional placeholders)  
+ + 🔒 GPG/SSH keys, certificates, and security settings  
+ + 📚 Backup instructions and key management guides
+
 # 📂 Others Index Repository
+## 💸 Freelance
+
+🔗 [freelance-index](https://github.com/zimindev/freelance-index) – **Freelance job**, contracts, client communication & workflow automation
+
+- 👨‍💻 Commissioned projects on Upwork, Fiverr, Freelancehunt, etc.  
+- 📜 Technical specifications (ToR), proposals, and contracts  
+- 🔁 Client workflows, email templates, and CRM integrations  
+- 🔄 Time tracking, reports, invoices, and accounting  
+- 🧩 Automation: scripts, response templates, application forms  
+- 🧠 Freelancing experience, tips, stories, and work cases  
+- 📚 Resources for freelancers: platforms, rules, and courses
+
 ## 💰Forex & Trading Tool
 
 🔗 [forex-index](https://github.com/zimindev/forex-index) – Trading, market analysis tools & financial libraries
@@ -213,28 +233,6 @@ This repo serves as a hub, linking to categorized index repositories by project 
  + 🖥️ Ground control software & mobile apps
  + 🧪 DIY builds, hardware mods & tuning guides
  + 📚 Educational resources & community knowledge
-
-## 🧑‍💼 Personal
-🔗 [gde-index](https://github.com/zimindev/gde-index) – Guides & Manuals
-
-🔗 [doc-index](https://github.com/zimindev/doc-index) – Documentation
-
-🔗 [bks-index](https://github.com/zimindev/bks-index) – Bookmarks and useful resources
-
-🔗 [my-index](https://github.com/zimindev/my-index) *(private)* – Personal dev environment and assets
-
-🔗 [nts-index](https://github.com/zimindev/nts-index) – Notes and personal knowledge
-
-🔗 [logs-index](https://github.com/zimindev/logs-index) – Logs, changelogs & updates
-
-## 🔑 Keys & Licenses / ⚠️ **This repository private/encrypted**
-
-🔗 [key-index](https://github.com/zimindev/key-index) – Repository for storing license keys, access tokens, and secrets  
- + 🔐 Software license keys (for private/local use)  
- + 🧾 API keys, access tokens, secret credentials (with optional placeholders)  
- + 🔒 GPG/SSH keys, certificates, and security settings  
- + 📚 Backup instructions and key management guides
-
 
 ## 🌟 **Stay Connected** 
 
